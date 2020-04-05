@@ -5,12 +5,12 @@
     background-position: center;
 }
 
-p {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.para-text {
+    /*font-family: Georgia, 'Times New Roman', Times, serif;*/
+    color: #fc03e8;
 }
-
 h1 {
-    color: orangered;
+    color: #fc03e8;
     text-align: center;
     text-decoration: solid;
     text-decoration: underline;
@@ -21,14 +21,12 @@ img {
     width: 40%;
 }
 
-
-a {
-    color: goldenrod;
-    width: 40%;
+.clicking {
+    background: deeppink;
     height: 70%;
 }
 
-a:hover {
+.clicking:hover {
     color: red;
 }
 
